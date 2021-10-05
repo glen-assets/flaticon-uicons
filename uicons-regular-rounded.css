@@ -1,8 +1,8 @@
 @font-face {
 font-family: "uicons-regular-rounded";
-src: url("https://app.box.com/index.php?rm=box_download_shared_file&shared_name=2fkt3mjuzock3jgbh8t3s1vcp5by3206&file_id=f_868904030214") format("embedded-opentype"),
-url("https://app.box.com/index.php?rm=box_download_shared_file&shared_name=ubbxj38sneydlnkfqruleza6lcd6v9a3&file_id=f_868904228526") format("woff2"),
-url("https://app.box.com/index.php?rm=box_download_shared_file&shared_name=kh8wvf7a38q4u04qxzlbxvc4lwf9ipoj&file_id=f_868903987688") format("woff");
+src: url("//glen-assets.github.io/flaticon-uicons/uicons-regular-rounded.eot") format("embedded-opentype"),
+url("//glen-assets.github.io/flaticon-uicons/uicons-regular-rounded.woff2") format("woff2"),
+url("//glen-assets.github.io/flaticon-uicons/uicons-regular-rounded.woff") format("woff");
 }
 
     i[class^="fi-rr-"]:before, i[class*=" fi-rr-"]:before, span[class^="fi-rr-"]:before, span[class*="fi-rr-"]:before {
